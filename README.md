@@ -1,2 +1,3 @@
 # Mandy
- student
+work intern
+kznsc
